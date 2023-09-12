@@ -40,7 +40,7 @@ Explicar também meu processo de criação (código, vídeo, design) -->
 checar tutorial no vídeo
 https://youtu.be/9A8sQZDRn5o -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosenav&show_icons=true&theme=github_dark_dimmed)](https://github.com/pedrosenav/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovanLindo&show_icons=true&theme=github_dark_dimmed)](https://github.com/JeovanLindo/github-readme-stats)
 
 <!-- OPCIONAL
 <details>

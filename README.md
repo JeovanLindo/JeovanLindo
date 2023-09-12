@@ -8,9 +8,9 @@
 Descrição sobre minha pessoa e eu mesmo, também o que eu quero (talvez usar o mesmo texto para o site de portfolio)
 Explicar também meu processo de criação (código, vídeo, design) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Sena-084675?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)](https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)
-[![Behance Badge](https://img.shields.io/badge/-pedrosenav-084675?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/jeovanjnior/)](https://www.behance.net/jeovanjnior/)
-[![Gmail Badge](https://img.shields.io/badge/-pedrosenav@gmail.com-084675?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeovanjrlindo@gmail.com)](mailto:jeovanjrlindo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jeovan%20Lindo-084675?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)](https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)
+[![Behance Badge](https://img.shields.io/badge/-JeovanLindo-084675?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/jeovanjnior/)](https://www.behance.net/jeovanjnior/)
+[![Gmail Badge](https://img.shields.io/badge/-jeovanjrlindo@gmail.com-084675?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeovanjrlindo@gmail.com)](mailto:jeovanjrlindo@gmail.com)
 
 ---
 

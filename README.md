@@ -4,11 +4,18 @@
 
 **`Developer / Graphic Designer`**
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Jeovan%20Lindo-36452B?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)](https://www.linkedin.com/in/jeovan-lindo-8b9891303/)
-[![Behance Badge](https://img.shields.io/badge/-JeovanLindo-F18221?style=for-the-badge&logo=Behance&logoColor=white&link=https://www.behance.net/jeovanjnior/)](https://www.behance.net/jeovanjnior/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-8C3123?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/SEU_USUARIO/)](https://www.instagram.com/olindodesign/)
-[![Gmail Badge](https://img.shields.io/badge/-jeovanjrlindo@gmail.com-677D44?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jeovanjrlindo@gmail.com)](mailto:jeovanjrlindo@gmail.com)
+<a href="https://www.linkedin.com/in/jeovan-lindo-8b9891303/" target="_blank">
+  <img src="https://img.shields.io/badge/-Jeovan%20Lindo-36452B?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
+<a href="https://www.behance.net/jeovanjnior/" target="_blank">
+  <img src="https://img.shields.io/badge/-JeovanLindo-F18221?style=for-the-badge&logo=Behance&logoColor=white" alt="Behance Badge">
+</a>
+<a href="https://www.instagram.com/olindodesign/" target="_blank">
+  <img src="https://img.shields.io/badge/-@olindodesign-8C3123?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>
+<a href="mailto:jeovanjrlindo@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-jeovanjrlindo@gmail.com-677D44?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
 
 ---
 

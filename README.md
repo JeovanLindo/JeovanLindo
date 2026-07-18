@@ -4,12 +4,10 @@
 
 **`Developer / Graphic Designer`**
 
-<!-- ABOUT ME
-Descrição sobre minha pessoa e eu mesmo, também o que eu quero (talvez usar o mesmo texto para o site de portfolio)
-Explicar também meu processo de criação (código, vídeo, design) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jeovan%20Lindo-36452B?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)](https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jeovan%20Lindo-36452B?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeovan-lindo-9a9a28251/)](https://www.linkedin.com/in/jeovan-lindo-8b9891303/)
 [![Behance Badge](https://img.shields.io/badge/-JeovanLindo-F18221?style=for-the-badge&logo=Behance&logoColor=white&link=https://www.behance.net/jeovanjnior/)](https://www.behance.net/jeovanjnior/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-8C3123?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/SEU_USUARIO/)](https://www.instagram.com/olindodesign/)
 [![Gmail Badge](https://img.shields.io/badge/-jeovanjrlindo@gmail.com-677D44?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jeovanjrlindo@gmail.com)](mailto:jeovanjrlindo@gmail.com)
 
 ---
@@ -39,15 +37,3 @@ Explicar também meu processo de criação (código, vídeo, design) -->
 <br/>
 
 #
-
-<!-- SCRIPT P/ PEGAR VIDEOS
-checar tutorial no vídeo
-https://youtu.be/9A8sQZDRn5o -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovanLindo&show_icons=true&bg_color=1c1c1c&title_color=F18221&text_color=EFEBE0&icon_color=677D44&border_color=36452B)](https://github.com/JeovanLindo/github-readme-stats)
-
-<!-- OPCIONAL
-<details>
-  <summary><h3>Jornada dev</h3></summary>
-  Resumo de como foi que eu comecei a programar e os etc etc
-</details> -->
